@@ -31,6 +31,7 @@ Awesome blogs related to Robotics, Computer Vision, Deep Learning and much more
 - [Silicon Valley AI Lab](https://svail.github.io/)
 
 ## 2. Computer Vision
+- [Computer Vision for Autonomous Vehicles](http://www.cvlibs.net/projects/autonomous_vision_survey/)
 
 ## 3. Robotics
 - [Erogol](http://www.erogol.com/)
