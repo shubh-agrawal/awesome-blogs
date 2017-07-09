@@ -33,6 +33,9 @@ Awesome blogs related to Robotics, Computer Vision, Deep Learning and much more
 ## 2. Computer Vision
 - [Computer Vision for Autonomous Vehicles](http://www.cvlibs.net/projects/autonomous_vision_survey/)
 - [LearnOpenCV](http://www.learnopencv.com)
+- [The Serious Computer Vision Blog](https://computervisionblog.wordpress.com/)
+- [Computer Vision Talks](https://computer-vision-talks.com/)
+- [Gil's CV Blog](https://gilscvblog.com/)
 
 ## 3. Robotics
 - [Erogol](http://www.erogol.com/)
