@@ -39,3 +39,6 @@ Awesome blogs related to Robotics, Computer Vision, Deep Learning and much more
 
 ## 3. Robotics
 - [Erogol](http://www.erogol.com/)
+- [RoboHub](http://robohub.org/)
+- [The Robot Report](https://www.therobotreport.com/)
+- [MIT Technology review](https://www.technologyreview.com/c/robotics/)
