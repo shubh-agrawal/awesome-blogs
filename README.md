@@ -29,6 +29,7 @@ Awesome blogs related to Robotics, Computer Vision, Deep Learning and much more
 - [Recommeded Papers](https://recommend-papers.org/)
 - [Inverse Probability](http://inverseprobability.com/blog.html)
 - [Silicon Valley AI Lab](https://svail.github.io/)
+- [Reading Notes by David Stutz](https://davidstutz.de/category/reading/)
 
 ## 2. Computer Vision
 - [Computer Vision for Autonomous Vehicles](http://www.cvlibs.net/projects/autonomous_vision_survey/)
